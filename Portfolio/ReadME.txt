@@ -1,0 +1,3 @@
+- installiere Python (Vorzugsweise Version 3.12.9 oder eine andere Stable Version) https://www.python.org/downloads/windows/
+	- dazu der Installationsanleitung folgen
+- Lade das Projekt von GitHub herunter 
